@@ -4,20 +4,20 @@
 #include <time.h>
 
 struct Lista{//Lista das palavras traduzidas para ingles 
-    char info[100];
-    struct Lista *Prox;
+    	char info[100];
+    	struct Lista *Prox;
 };
 
 struct Arvbin{//Arvore das palavras em portuques
 	char info[100];
-    struct Lista *lista;
+    	struct Lista *lista;
 	struct Arvbin *Dir;
 	struct Arvbin *Esq;
 };
 
 struct unidade{//Estruturas para guardar as unidades e o endereco para sua arvore
-    char uni[100];
-    struct Arvbin *Avr;
+    	char uni[100];
+    	struct Arvbin *Avr;
 };
 
 //Prototipos das funcoes
