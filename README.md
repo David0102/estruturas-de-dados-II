@@ -1,1 +1,1 @@
-<p><b>Trabalho referente a matéria de estruturas de dados II, utilizando árvore binária de busca e AVL.</b></p>
+<p><b>Trabalhos referentes a matéria de estruturas de dados II, utilizando árvores e grafos.</b></p>
